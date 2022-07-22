@@ -1,0 +1,4 @@
+1:git status == to check the the status of file whether tracked/untracked, modified/unmodified, staged/unstaged and so on....
+2:git init == to initialize the git repository in git
+3:git add --a / add . == to track the existing file
+4:git commit -m "msg here" == to give exact information in short form while changing repository
